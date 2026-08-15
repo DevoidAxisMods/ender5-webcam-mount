@@ -14,7 +14,8 @@ The T crossbar bolts along a 2020 rail with two M3 T-nuts; the arm reaches out
 perpendicular; the camera clamps to the end with the printed thumbscrew. The
 raised rib along the arm is what keeps a 105 mm cantilever from drooping.
 
-*The host machine — a Creality Ender 5 S1.*
+*The host machine — a Creality Ender 5 S1. (This shot is for context; the
+mount itself is easier to see in the photo above.)*
 
 ![overview](images/installed-overview.jpg)
 
