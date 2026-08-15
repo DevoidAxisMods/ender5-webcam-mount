@@ -95,7 +95,15 @@ A note on `--tilt`: a tapered plate has to *start* thicker, because 5° over
 raising the mount end. In practice **flat is usually right** — most webcam arms
 have their own tilt/Z adjustment, which is why the shipped STL is 0°.
 
-## Licence
+## Licence & credit
 
-[CC BY 4.0](LICENSE) — use it, remix it, sell prints of it; just credit the
-original.
+[CC BY 4.0](LICENSE) — use it, remix it, sell prints of it. The one condition
+is attribution.
+
+**Credit as:**
+
+> Ender 5 webcam mount by **DevoidAxis** —
+> https://github.com/DevoidAxisMods/ender5-webcam-mount — licensed CC BY 4.0
+
+If you remix it, a link back to this repo is enough. If you post a print of it,
+a mention is appreciated but the licence only asks for the credit line above.
