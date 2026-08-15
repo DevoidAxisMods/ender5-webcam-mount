@@ -7,9 +7,14 @@ length, tilt, or bolt size and re-run.
 
 ![installed](images/installed-detail.jpg)
 
+*T crossbar bolted to a 2020 rail with two M3 T-nuts; arm reaching out to the
+camera; the printed thumbscrew is the knurled disc.*
+
 The T crossbar bolts along a 2020 rail with two M3 T-nuts; the arm reaches out
 perpendicular; the camera clamps to the end with the printed thumbscrew. The
 raised rib along the arm is what keeps a 105 mm cantilever from drooping.
+
+*The host machine — a Creality Ender 5 S1.*
 
 ![overview](images/installed-overview.jpg)
 
